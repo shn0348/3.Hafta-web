@@ -1,0 +1,14 @@
+1- Tabloyu tekrar Et(tahtada)
+2- U1 Yap
+3- U2 yaptır.
+4- U1 üzerinden arkaplan rengini ve tablo başlığını, hizalamayı ve genişliği göster.
+5- U3 yaptır.
+6- Colspan anlat
+7- U4 yap.
+8- U5 yaptır.
+9- Rowspan anlat
+10- U6 yap.
+11- U7 yaptır.
+12- U8 yap
+13- U9 Yaptır.
+14- U10 yap-yaptır.
